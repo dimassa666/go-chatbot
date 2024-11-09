@@ -1,1 +1,1 @@
-# go-chabtot
+# go-chatbot
